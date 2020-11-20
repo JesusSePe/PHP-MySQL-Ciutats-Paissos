@@ -30,7 +30,7 @@ Now, it's time to add our database to MySQL.
 
 3. `sudo mysql` *Opening MySQL.*
 
-4. `source world.sql` *Adding our database to MySQL. This process may last a bit. Be patient.*
+4. `source ./PHP-MySQL-Ciutats-Paissos/world.sql` *Adding our database to MySQL. This process may last a bit. Be patient.*
 
 5. `CREATE USER 'php'@'localhost' IDENTIFIED BY 'Php_1c4J8';` *Creating a new user for the database.*
 
