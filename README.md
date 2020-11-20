@@ -46,3 +46,17 @@ VISITING THE SITE:
 If you installed it in a local machine, and didn't set up any server name, you should be able to acces it searching on any browser `localhost/PHP-MySQL-Ciutats-Paissos/world1.php`.
 
 If you installed it in a server, and configured a server name, you should be able to acces it searching on any browser `[Your_server_name]/PHP-MySQL-Ciutats-Paissos/world1.php`.
+
+
+LICENCING:
+-----
+
+I share this code **freely**, you can modify, share it and do whatever you want to, but **images are not mine**.
+
+Most of the images are from [Flaticon](https://www.flaticon.com "Flaticon"), designed by [Freepic](https://www.flaticon.com/authors/freepik "Freepic on Flaticon"). You can find those flags [here](https://www.flaticon.com/packs/international-flags?k=1605808453135 "International Flags").
+
+All the remaining flags that aren't there are from [Wikimedia](https://commons.wikimedia.org/ "Wikimedia").
+
+RECENT WORKS:
+-----
++ [Simon-says](https://github.com/aleexnl/simon-says "Simon-says")
